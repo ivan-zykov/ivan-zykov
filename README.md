@@ -12,6 +12,7 @@ I'm a back-end developer located in Vienna, Austria. I have experience as a PHP 
 - [pluralsight-conf-demo](https://github.com/ivan-zykov/pluralsight-conf-demo), my first simple CRUD app in Spring Boot
 - [udemy-dsa-barrett](https://github.com/ivan-zykov/udemy-dsa-barrett), my implementation of data structures and algorithms discussed in Data Structures & Algorithms - Java course by Scott Barrett on Udemy
 - [craftworks-task-tracker](https://github.com/ivan-zykov/craftworks-task-tracker), my implementation of a task received from Craftworks. This is a CRUD application in Spring Boot with intermediate features and Docker compose
+- [ccds-word-count](https://github.com/ivan-zykov/ccds-word-count), my solution of Word count agility kata of Clean Code Developer School
 
 I'm looking for a full-time position of (Junior) Java software engineer in Vienna.
 
