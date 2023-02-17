@@ -16,7 +16,7 @@ I'm a back-end developer located in Vienna, Austria. I have experience as a PHP 
 
 I'm looking for a full-time position of (Junior) Java software engineer in Vienna.
 
-You could contact me over ivan dot v dot zykov at gmail dot com. Also, feel free to check my [LinkedIn account](https://www.linkedin.com/in/ivan-zykov/).
+You could contact me over ivan dot v dot zykov at gmail dot com. Also, feel free to visit my [LinkedIn page](https://www.linkedin.com/in/ivan-zykov/).
 
 <!---
 IvanZet/IvanZet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
