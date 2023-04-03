@@ -1,8 +1,8 @@
 Hello!
 
-I'm a back-end developer located in Vienna, Austria. I have experience as a PHP full stack developer and I'm transitioning to Java now.
+I'm a back-end developer located in Vienna, Austria. I have experience as a PHP full stack developer, and have done several pet projects in Java.
 
-#### Some of my pet projects/courses I did or working on now:
+#### Some of my pet projects/courses:
 - [udacity-hotel-reservation-app](https://github.com/ivan-zykov/udacity-hotel-reservation-app), the first project I did during Udacity Java Programming nanodegree
 - [udacity-udasecurity](https://github.com/ivan-zykov/udacity-udasecurity), the second project in Udacity Java Programming nanodegree. It is not polished and lacks a
   proper description
@@ -15,11 +15,4 @@ I'm a back-end developer located in Vienna, Austria. I have experience as a PHP 
 - [ccds-word-count](https://github.com/ivan-zykov/ccds-word-count), my solution of Word count agility kata of Clean Code Developer School
 - [rss-feed-archiver](https://github.com/ivan-zykov/rss-feed-archiver), Spring Boot app handling POST HTTP requests with URLs of RSS feeds by persisting feed entries to a database
 
-I'm looking for a full-time position of (Junior) Java software engineer in Vienna.
-
-You could contact me over ivan dot v dot zykov at gmail dot com. Also, feel free to visit my [LinkedIn page](https://www.linkedin.com/in/ivan-zykov/).
-
-<!---
-IvanZet/IvanZet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can contact me at ivan dot v dot zykov at gmail dot com. Also, feel free to visit my [LinkedIn page](https://www.linkedin.com/in/ivan-zykov/).
