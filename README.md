@@ -1,6 +1,6 @@
 Hello!
 
-I'm a back-end developer located in Vienna, Austria. I have experience as a PHP full stack developer, and have done several pet projects in Java.
+I'm a back-end developer located in Vienna, Austria. I have experience with PHP, Java and Kotlin, and have done several pet projects in Java.
 
 #### Some of my pet projects/courses:
 - [udacity-hotel-reservation-app](https://github.com/ivan-zykov/udacity-hotel-reservation-app), the first project I did during Udacity Java Programming nanodegree
